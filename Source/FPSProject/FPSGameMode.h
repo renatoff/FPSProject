@@ -12,4 +12,6 @@ class FPSPROJECT_API AFPSGameMode : public AGameMode
 	AFPSGameMode(const FObjectInitializer& ObjectInitializer);
 	virtual void StartPlay() override;
 	//DRAG AND DROP É O CARALHO!!
+    //E isso ai POHHAAA;
+    
 };
