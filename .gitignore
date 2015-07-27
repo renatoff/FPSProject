@@ -45,6 +45,8 @@ Temporary Items
 *.sdf
 *.suo
 *.sln
+*.opensdf
+*.uproject
 
 #UE4 Files
 /Binaries
